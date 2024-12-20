@@ -69,6 +69,7 @@ let result = add(five, ten)
 		{token.INT, "10"},
 		{token.GT, ">"},
 		{token.INT, "5"},
+		{token.SEMICOLON, ";"},
 		{token.EOF, ""},
 	}
 
